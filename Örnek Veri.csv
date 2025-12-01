@@ -1,0 +1,101 @@
+No,Ad,Soyad,Bolum,Mat Vize,Mat Final,Mat Ort,Mat Durum,Tur Vize,Tur Final,Tur Ort,Tur Durum,Sos Vize,Sos Final,Sos Ort,Sos Durum,Fen Vize,Fen Final,Fen Ort,Fen Durum
+106,Kerem,Yıldız,İşletme,45,60,54.0,Geçti,70,85,79.0,Geçti,30,40,36.0,Kaldı,55,65,61.0,Geçti
+107,Elif,Şahin,Tıp,90,95,93.0,Geçti,80,90,86.0,Geçti,75,85,81.0,Geçti,95,100,98.0,Geçti
+108,Burak,Aydın,Makine Müh.,20,40,32.0,Kaldı,55,50,52.0,Geçti,45,60,54.0,Geçti,30,45,39.0,Kaldı
+109,Selin,Arslan,Mimarlık,65,70,68.0,Geçti,85,80,82.0,Geçti,90,85,87.0,Geçti,60,75,69.0,Geçti
+110,Mert,Polat,Hukuk,30,55,45.0,Kaldı,95,90,92.0,Geçti,80,70,74.0,Geçti,25,40,34.0,Kaldı
+111,Zeynep,Koç,Bilgisayar Müh.,80,90,86.0,Geçti,70,75,73.0,Geçti,60,80,72.0,Geçti,85,95,91.0,Geçti
+112,Can,Kurt,Endüstri Müh.,50,60,56.0,Geçti,65,70,68.0,Geçti,55,65,61.0,Geçti,45,55,51.0,Geçti
+113,Gizem,Özdemir,Psikoloji,40,50,46.0,Kaldı,80,85,83.0,Geçti,90,95,93.0,Geçti,35,45,41.0,Kaldı
+114,Emre,Çakır,İnşaat Müh.,25,35,31.0,Kaldı,40,55,49.0,Kaldı,30,45,39.0,Kaldı,20,30,26.0,Kaldı
+115,Gamze,Erdoğan,Eczacılık,75,80,78.0,Geçti,60,70,66.0,Geçti,70,80,76.0,Geçti,80,85,83.0,Geçti
+116,Oğuz,Tekin,Mimarlık,55,65,61.0,Geçti,50,60,56.0,Geçti,65,75,71.0,Geçti,60,70,66.0,Geçti
+117,İrem,Yalçın,Hukuk,45,55,51.0,Geçti,90,95,93.0,Geçti,85,90,88.0,Geçti,40,50,46.0,Kaldı
+118,Tolga,Güneş,Makine Müh.,30,45,39.0,Kaldı,45,50,48.0,Kaldı,55,60,58.0,Geçti,35,40,38.0,Kaldı
+119,Buse,Aksoy,Bilgisayar Müh.,85,90,88.0,Geçti,75,85,81.0,Geçti,65,75,71.0,Geçti,90,95,93.0,Geçti
+120,Kaan,Demirci,Endüstri Müh.,60,70,66.0,Geçti,70,80,76.0,Geçti,60,70,66.0,Geçti,65,75,71.0,Geçti
+121,Ece,Keskin,Tıp,95,100,98.0,Geçti,85,95,91.0,Geçti,80,90,86.0,Geçti,90,100,96.0,Geçti
+122,Arda,Şen,İşletme,50,60,56.0,Geçti,65,75,71.0,Geçti,45,55,51.0,Geçti,50,60,56.0,Geçti
+123,Melis,Yavuz,Psikoloji,35,50,44.0,Kaldı,80,90,86.0,Geçti,85,95,91.0,Geçti,40,55,49.0,Kaldı
+124,Umut,Kılıç,İnşaat Müh.,20,40,32.0,Kaldı,30,45,39.0,Kaldı,25,40,34.0,Kaldı,15,30,24.0,Kaldı
+125,Seda,Çetin,Eczacılık,70,80,76.0,Geçti,60,75,69.0,Geçti,65,75,71.0,Geçti,75,85,81.0,Geçti
+126,Barış,Avcı,Mimarlık,60,75,69.0,Geçti,55,65,61.0,Geçti,70,80,76.0,Geçti,65,75,71.0,Geçti
+127,Derya,Aslan,Hukuk,40,55,49.0,Kaldı,95,100,98.0,Geçti,80,90,86.0,Geçti,35,50,44.0,Kaldı
+128,Cem,Taş,Makine Müh.,35,45,41.0,Kaldı,50,60,56.0,Geçti,45,55,51.0,Geçti,30,45,39.0,Kaldı
+129,Aslı,Ünal,Bilgisayar Müh.,90,95,93.0,Geçti,80,90,86.0,Geçti,70,80,76.0,Geçti,95,100,98.0,Geçti
+130,Emir,Güler,Endüstri Müh.,55,65,61.0,Geçti,70,80,76.0,Geçti,60,70,66.0,Geçti,50,60,56.0,Geçti
+131,Nazlı,Bulut,Tıp,95,95,95.0,Geçti,90,95,93.0,Geçti,85,90,88.0,Geçti,95,100,98.0,Geçti
+132,Yiğit,Sönmez,İşletme,45,55,51.0,Geçti,60,70,66.0,Geçti,40,50,46.0,Kaldı,55,65,61.0,Geçti
+133,Eylül,Korkmaz,Psikoloji,30,45,39.0,Kaldı,85,90,88.0,Geçti,90,95,93.0,Geçti,35,50,44.0,Kaldı
+134,Okan,Yüksel,İnşaat Müh.,25,35,31.0,Kaldı,35,45,41.0,Kaldı,30,40,36.0,Kaldı,20,35,29.0,Kaldı
+135,Pelin,Aktaş,Eczacılık,80,85,83.0,Geçti,70,80,76.0,Geçti,75,85,81.0,Geçti,85,90,88.0,Geçti
+136,Serkan,Turan,Mimarlık,65,75,71.0,Geçti,60,70,66.0,Geçti,70,80,76.0,Geçti,60,70,66.0,Geçti
+137,Deniz,Özer,Hukuk,50,60,56.0,Geçti,90,95,93.0,Geçti,85,90,88.0,Geçti,45,55,51.0,Geçti
+138,Fatih,Coşkun,Makine Müh.,40,50,46.0,Kaldı,55,65,61.0,Geçti,50,60,56.0,Geçti,35,45,41.0,Kaldı
+139,Gözde,Karaca,Bilgisayar Müh.,85,90,88.0,Geçti,75,85,81.0,Geçti,65,75,71.0,Geçti,90,95,93.0,Geçti
+140,Murat,Bilgin,Endüstri Müh.,60,70,66.0,Geçti,70,80,76.0,Geçti,60,70,66.0,Geçti,65,75,71.0,Geçti
+141,Ceren,Akar,Tıp,100,100,100.0,Geçti,95,100,98.0,Geçti,90,95,93.0,Geçti,100,100,100.0,Geçti
+142,Hakan,Doğan,İşletme,55,65,61.0,Geçti,65,75,71.0,Geçti,50,60,56.0,Geçti,60,70,66.0,Geçti
+143,Ezgi,Şimşek,Psikoloji,35,50,44.0,Kaldı,80,90,86.0,Geçti,85,95,91.0,Geçti,40,55,49.0,Kaldı
+144,Berkay,Çetin,İnşaat Müh.,20,30,26.0,Kaldı,40,50,46.0,Kaldı,35,45,41.0,Kaldı,25,40,34.0,Kaldı
+145,Damla,Kurt,Eczacılık,75,85,81.0,Geçti,65,75,71.0,Geçti,70,80,76.0,Geçti,80,90,86.0,Geçti
+146,Uğur,Aslan,Mimarlık,60,70,66.0,Geçti,55,65,61.0,Geçti,65,75,71.0,Geçti,60,70,66.0,Geçti
+147,Aleyna,Yıldırım,Hukuk,45,55,51.0,Geçti,90,95,93.0,Geçti,85,90,88.0,Geçti,40,50,46.0,Kaldı
+148,Sinan,Özkan,Makine Müh.,30,45,39.0,Kaldı,50,60,56.0,Geçti,45,55,51.0,Geçti,35,45,41.0,Kaldı
+149,İlayda,Köse,Bilgisayar Müh.,90,95,93.0,Geçti,80,90,86.0,Geçti,70,80,76.0,Geçti,95,100,98.0,Geçti
+150,Onur,Aydın,Endüstri Müh.,55,65,61.0,Geçti,70,80,76.0,Geçti,60,70,66.0,Geçti,50,60,56.0,Geçti
+151,Berna,Sarı,Tıp,95,100,98.0,Geçti,90,95,93.0,Geçti,85,95,91.0,Geçti,90,100,96.0,Geçti
+152,Levent,Kara,İşletme,45,55,51.0,Geçti,60,70,66.0,Geçti,40,50,46.0,Kaldı,55,65,61.0,Geçti
+153,Simge,Gürsoy,Psikoloji,30,45,39.0,Kaldı,85,90,88.0,Geçti,90,95,93.0,Geçti,35,50,44.0,Kaldı
+154,Kadir,Toprak,İnşaat Müh.,25,35,31.0,Kaldı,35,45,41.0,Kaldı,30,40,36.0,Kaldı,20,35,29.0,Kaldı
+155,Pınar,Genç,Eczacılık,80,85,83.0,Geçti,70,80,76.0,Geçti,75,85,81.0,Geçti,85,90,88.0,Geçti
+156,Metin,Bozkurt,Mimarlık,65,75,71.0,Geçti,60,70,66.0,Geçti,70,80,76.0,Geçti,60,70,66.0,Geçti
+157,Esra,Kaya,Hukuk,50,60,56.0,Geçti,90,95,93.0,Geçti,85,90,88.0,Geçti,45,55,51.0,Geçti
+158,Gökhan,Demir,Makine Müh.,40,50,46.0,Kaldı,55,65,61.0,Geçti,50,60,56.0,Geçti,35,45,41.0,Kaldı
+159,Büşra,Çelik,Bilgisayar Müh.,85,90,88.0,Geçti,75,85,81.0,Geçti,65,75,71.0,Geçti,90,95,93.0,Geçti
+160,Volkan,Yılmaz,Endüstri Müh.,60,70,66.0,Geçti,70,80,76.0,Geçti,60,70,66.0,Geçti,65,75,71.0,Geçti
+161,Duygu,Akın,Tıp,100,100,100.0,Geçti,95,100,98.0,Geçti,90,95,93.0,Geçti,100,100,100.0,Geçti
+162,Eren,Gül,İşletme,55,65,61.0,Geçti,65,75,71.0,Geçti,50,60,56.0,Geçti,60,70,66.0,Geçti
+163,Merve,Ersoy,Psikoloji,35,50,44.0,Kaldı,80,90,86.0,Geçti,85,95,91.0,Geçti,40,55,49.0,Kaldı
+164,Selim,Uçar,İnşaat Müh.,20,30,26.0,Kaldı,40,50,46.0,Kaldı,35,45,41.0,Kaldı,25,40,34.0,Kaldı
+165,Fulya,Kartal,Eczacılık,75,85,81.0,Geçti,65,75,71.0,Geçti,70,80,76.0,Geçti,80,90,86.0,Geçti
+166,Yasin,Şentürk,Mimarlık,60,70,66.0,Geçti,55,65,61.0,Geçti,65,75,71.0,Geçti,60,70,66.0,Geçti
+167,Hilal,Üstün,Hukuk,45,55,51.0,Geçti,90,95,93.0,Geçti,85,90,88.0,Geçti,40,50,46.0,Kaldı
+168,İsmail,Kocaman,Makine Müh.,30,45,39.0,Kaldı,50,60,56.0,Geçti,45,55,51.0,Geçti,35,45,41.0,Kaldı
+169,Kübra,Duman,Bilgisayar Müh.,90,95,93.0,Geçti,80,90,86.0,Geçti,70,80,76.0,Geçti,95,100,98.0,Geçti
+170,Rıza,Altun,Endüstri Müh.,55,65,61.0,Geçti,70,80,76.0,Geçti,60,70,66.0,Geçti,50,60,56.0,Geçti
+171,Nihan,Sever,Tıp,95,100,98.0,Geçti,90,95,93.0,Geçti,85,95,91.0,Geçti,90,100,96.0,Geçti
+172,Tarık,Bakır,İşletme,45,55,51.0,Geçti,60,70,66.0,Geçti,40,50,46.0,Kaldı,55,65,61.0,Geçti
+173,Şeyma,Gündüz,Psikoloji,30,45,39.0,Kaldı,85,90,88.0,Geçti,90,95,93.0,Geçti,35,50,44.0,Kaldı
+174,Erkan,Polat,İnşaat Müh.,25,35,31.0,Kaldı,35,45,41.0,Kaldı,30,40,36.0,Kaldı,20,35,29.0,Kaldı
+175,Tuğba,Koçak,Eczacılık,80,85,83.0,Geçti,70,80,76.0,Geçti,75,85,81.0,Geçti,85,90,88.0,Geçti
+176,Orhan,Aras,Mimarlık,65,75,71.0,Geçti,60,70,66.0,Geçti,70,80,76.0,Geçti,60,70,66.0,Geçti
+177,Betül,Yiğit,Hukuk,50,60,56.0,Geçti,90,95,93.0,Geçti,85,90,88.0,Geçti,45,55,51.0,Geçti
+178,Cihan,Ergin,Makine Müh.,40,50,46.0,Kaldı,55,65,61.0,Geçti,50,60,56.0,Geçti,35,45,41.0,Kaldı
+179,Esra,Taşkın,Bilgisayar Müh.,85,90,88.0,Geçti,75,85,81.0,Geçti,65,75,71.0,Geçti,90,95,93.0,Geçti
+180,Ferhat,Durmaz,Endüstri Müh.,60,70,66.0,Geçti,70,80,76.0,Geçti,60,70,66.0,Geçti,65,75,71.0,Geçti
+181,Selin,Uslu,Tıp,100,100,100.0,Geçti,95,100,98.0,Geçti,90,95,93.0,Geçti,100,100,100.0,Geçti
+182,Halil,Korkmaz,İşletme,55,65,61.0,Geçti,65,75,71.0,Geçti,50,60,56.0,Geçti,60,70,66.0,Geçti
+183,Melike,Bulut,Psikoloji,35,50,44.0,Kaldı,80,90,86.0,Geçti,85,95,91.0,Geçti,40,55,49.0,Kaldı
+184,Yunus,Çelik,İnşaat Müh.,20,30,26.0,Kaldı,40,50,46.0,Kaldı,35,45,41.0,Kaldı,25,40,34.0,Kaldı
+185,Didem,Aksoy,Eczacılık,75,85,81.0,Geçti,65,75,71.0,Geçti,70,80,76.0,Geçti,80,90,86.0,Geçti
+186,Emre,Demir,Mimarlık,60,70,66.0,Geçti,55,65,61.0,Geçti,65,75,71.0,Geçti,60,70,66.0,Geçti
+187,Sibel,Kara,Hukuk,45,55,51.0,Geçti,90,95,93.0,Geçti,85,90,88.0,Geçti,40,50,46.0,Kaldı
+188,Adem,Özdemir,Makine Müh.,30,45,39.0,Kaldı,50,60,56.0,Geçti,45,55,51.0,Geçti,35,45,41.0,Kaldı
+189,Ebru,Yıldız,Bilgisayar Müh.,90,95,93.0,Geçti,80,90,86.0,Geçti,70,80,76.0,Geçti,95,100,98.0,Geçti
+190,Hüseyin,Şahin,Endüstri Müh.,55,65,61.0,Geçti,70,80,76.0,Geçti,60,70,66.0,Geçti,50,60,56.0,Geçti
+191,Asuman,Yılmaz,Tıp,95,100,98.0,Geçti,90,95,93.0,Geçti,85,95,91.0,Geçti,90,100,96.0,Geçti
+192,Mesut,Can,İşletme,45,55,51.0,Geçti,60,70,66.0,Geçti,40,50,46.0,Kaldı,55,65,61.0,Geçti
+193,Neslihan,Ekinci,Psikoloji,30,45,39.0,Kaldı,85,90,88.0,Geçti,90,95,93.0,Geçti,35,50,44.0,Kaldı
+194,Faruk,Tuna,İnşaat Müh.,25,35,31.0,Kaldı,35,45,41.0,Kaldı,30,40,36.0,Kaldı,20,35,29.0,Kaldı
+195,Hale,Güngör,Eczacılık,80,85,83.0,Geçti,70,80,76.0,Geçti,75,85,81.0,Geçti,85,90,88.0,Geçti
+196,Cüneyt,Kılıç,Mimarlık,65,75,71.0,Geçti,60,70,66.0,Geçti,70,80,76.0,Geçti,60,70,66.0,Geçti
+197,Fatma,Öztürk,Hukuk,50,60,56.0,Geçti,90,95,93.0,Geçti,85,90,88.0,Geçti,45,55,51.0,Geçti
+198,Ali,Koç,Makine Müh.,40,50,46.0,Kaldı,55,65,61.0,Geçti,50,60,56.0,Geçti,35,45,41.0,Kaldı
+199,Zehra,Avcı,Bilgisayar Müh.,85,90,88.0,Geçti,75,85,81.0,Geçti,65,75,71.0,Geçti,90,95,93.0,Geçti
+200,Mustafa,Taş,Endüstri Müh.,60,70,66.0,Geçti,70,80,76.0,Geçti,60,70,66.0,Geçti,65,75,71.0,Geçti
+201,Aylin,Demir,Tıp,100,100,100.0,Geçti,95,100,98.0,Geçti,90,95,93.0,Geçti,100,100,100.0,Geçti
+202,Selçuk,Yalçın,İşletme,55,65,61.0,Geçti,65,75,71.0,Geçti,50,60,56.0,Geçti,60,70,66.0,Geçti
+203,Banu,Eren,Psikoloji,35,50,44.0,Kaldı,80,90,86.0,Geçti,85,95,91.0,Geçti,40,55,49.0,Kaldı
+204,Koray,Çakmak,İnşaat Müh.,20,30,26.0,Kaldı,40,50,46.0,Kaldı,35,45,41.0,Kaldı,25,40,34.0,Kaldı
+205,Esin,Dönmez,Eczacılık,75,85,81.0,Geçti,65,75,71.0,Geçti,70,80,76.0,Geçti,80,90,86.0,Geçti
