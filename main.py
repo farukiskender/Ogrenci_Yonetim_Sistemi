@@ -459,3 +459,14 @@ entry_arama.place(x=1150, y=15, width=180, height=40)
 entry_arama.bind("<KeyRelease>", lambda event: arama_yap())
 
 main_window.mainloop()
+
+"""
+## Gelistirici
+
+Omer Faruk Iskender
+
+GitHub: https://github.com/farukiskender
+
+LinkedIn: https://www.linkedin.com/in/farukiskender0/
+
+"""
